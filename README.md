@@ -10,6 +10,8 @@ fetched quickly whenever required by the venue or the user.
 Realtime Firebase DB data are stored as JSON objects. To ensure data security and integrity, each venue is given a unique user ID,
 this allows for each venue to quickly access their relevant data and keeps the data of other venues private and inaccessible.
 
+The database has a flattened structure to ensure minimal delay and absolute accuracy when storing and retrieving data.
+
 This project uses the Zebra Crossing barcode scanning library for Android: https://github.com/zxing/zxing
 
 ## **Overall Structure of the Firebase DB:**
