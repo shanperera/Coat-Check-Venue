@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "70887994327",
+    "firebase_url": "https://coatsadmin-aae30.firebaseio.com",
+    "project_id": "coatsadmin-aae30",
+    "storage_bucket": "coatsadmin-aae30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70887994327:android:893df30e32ab0358",
+        "android_client_info": {
+          "package_name": "coatcheck.apps.shanperera.coatsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70887994327-bt3nrg9ls7la3cse28v2j6pid8udv433.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coatcheck.apps.shanperera.coatsadmin",
+            "certificate_hash": "5C5480BE9C24405EAB80E50DC44017A2B8731743"
+          }
+        },
+        {
+          "client_id": "70887994327-31utc7a67fiqd1q6ktsrjjerf2hluse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmxoa-ccKmr_iy4HFNObUcY1K75wGSQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
