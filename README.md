@@ -46,16 +46,16 @@ Please note that this is a proof of concept application, the UX is very minimal 
 completely overhauled.
 
 ### **Main Menu**
-<img src="/rm-images/MainMenu.PNG" width=838 height=492/>
+<img src="/rm-images/MainMenu.PNG" width=418 height=246/>
 
 Pressing either Check Coat or Return Coat will open the respective Activity.
 
 ### **Check Coat**
-<img src="/rm-images/Check.PNG" width=838 height=492/>
+<img src="/rm-images/Check.PNG" width=418 height=246/>
 
 Pressing Phone Num. will push the user's coat to the Firebase DB using their phone number. Pressing QR Code will initialize the ZXing library and the camera which will allow the attendant to scan the QR Code to push the user data to the Firebase DB.
 
 
 ### **Return Coat**
-<img src="/rm-images/Return.PNG" width=838 height=492/>
+<img src="/rm-images/Return.PNG" width=418 height=246/>
 Pressing Phone Num. will retrieve the user's coat from the Firebase DB using their phone number. Pressing QR Code will initialize the ZXing library and the camera which will allow the attendant to scan the QR Code and retrieve the user's coat from the Firebase DB.
